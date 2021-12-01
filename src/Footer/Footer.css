@@ -1,0 +1,10 @@
+footer {
+  background-color: #632a5088;
+  color: #c2e812;
+  position: fixed;
+  bottom: 0%;
+  width: 100vw;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 500;
+  font-size: 12px;
+}
