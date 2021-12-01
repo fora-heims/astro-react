@@ -4,24 +4,24 @@
   align-items: center;
   justify-content: center;
   gap: 4px;
-  height: 100px;
-  width: 80px;
+  height: 160px;
+  width: 120px;
   background-color: hsl(270, 29%, 45%, 0.85);
   border-radius: 10px;
 }
 
 .zodiac-card img {
-  height: 50px;
-  width: 50px;
+  height: 80px;
+  width: 80px;
 }
 
 .name {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: 900;
 }
 
 .dates {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 8px;
+  font-size: 12px;
 }
